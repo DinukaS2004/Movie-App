@@ -4,6 +4,7 @@ import { Tabs } from "expo-router";
 import { images } from "@/constants/images";
 import {icons} from "@/constants/icons";
 
+// @ts-ignore
 const TabIcon = ({focused,icon,title})=>{
     if(focused){
     return(
