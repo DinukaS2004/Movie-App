@@ -31,7 +31,7 @@ const _Layout = () => {
                 tabBarItemStyle:{
                     width:'100%',
                     height:'100%',
-                    justifyContent:'cneter',
+                    justifyContent:'center',
                     alignItems:'center'
                 },
                 tabBarStyle:{
